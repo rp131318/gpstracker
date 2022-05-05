@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "878206744254",
+    "project_id": "tracker-7c919",
+    "storage_bucket": "tracker-7c919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878206744254:android:126ec433975eb89eced0ef",
+        "android_client_info": {
+          "package_name": "com.anantkaal.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878206744254-tkn32qvdun5mfp642jqv1cb6259pvqcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anantkaal.tracker",
+            "certificate_hash": "4fd9bd7f72ba76921406b50d9b5b047f46fcba06"
+          }
+        },
+        {
+          "client_id": "878206744254-ksmpq2s95b48pvqf430dl4lb8tpdo74q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFiz3sLsZcHVDE_zgVDUNPOaJxPkvK9qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878206744254-ksmpq2s95b48pvqf430dl4lb8tpdo74q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
